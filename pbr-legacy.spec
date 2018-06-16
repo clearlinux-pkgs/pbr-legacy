@@ -33,7 +33,7 @@ Summary: legacypython components for the pbr-legacy package.
 Group: Default
 Requires: python-core
 
-%description legacypython
+%description -n pbr-legacypython
 legacypython components for the pbr-legacy package.
 
 
